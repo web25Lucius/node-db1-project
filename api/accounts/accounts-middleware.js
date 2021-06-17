@@ -1,5 +1,5 @@
 exports.checkAccountPayload = (req, res, next) => {
-  // DO YOUR MAGIC
+  // Still working
 }
 
 exports.checkAccountNameUnique = (req, res, next) => {
